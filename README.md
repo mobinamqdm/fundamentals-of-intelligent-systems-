@@ -13,6 +13,12 @@ This repository contains exercises and implementations for the course **Fundamen
   - Erfan Y2AJ ([GitHub](https://github.com/erfanY2AJ))
 
 ---
+## Collaborators
+
+These projects were developed in collaboration with:
+
+- **Mohammad Amin Shabestari** ([GitHub](https://github.com/msh8303))  
+- **Mohammad Sobhan Sakhaei** ([GitHub](https://github.com/sobhanskh))
 
 ## Projects Overview
 
