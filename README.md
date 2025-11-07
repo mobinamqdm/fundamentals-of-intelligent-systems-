@@ -40,6 +40,11 @@ proj1_kntu/
 ├─ Housing-Price-Prediction-via-Improved-Machine-Learning.pdf # Reference paper used for Project 1
 └─ code/ # Code and data for Project 1
      └─data-used.pdf
+     └─Q4.ipynd
+     └─Q5.ipynd
+     └─Housing.csv
+     └─teleCust1000t.csv
+
 proj2_kntu/
 ├─ question-project2.pdf # Project 2 Question PDF
 └─ code/ # Code and data for Project 2
