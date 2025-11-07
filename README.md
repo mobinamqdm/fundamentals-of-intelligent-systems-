@@ -31,9 +31,9 @@ This repository contains exercises and implementations for the course **Fundamen
 proj1_kntu/
 ├─ question-project1.pdf # Project 1 Question PDF
 ├─ answer-project1.pdf # Project 1 Answer PDF
-├─ Housing Price Prediction via Improved Machine Learning.pdf # Reference paper used for Project 1
+├─ Housing-Price-Prediction-via-Improved-Machine-Learning.pdf # Reference paper used for Project 1
 └─ code/ # Code and data for Project 1
-
+     └─data-used.pdf
 proj2_kntu/
 ├─ question-project2.pdf # Project 2 Question PDF
 └─ code/ # Code and data for Project 2
